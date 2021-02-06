@@ -1,2 +1,2 @@
 # SCCM-Dashboards
-SCCM custom Dashboards
+SCCM Client Details Dashbaord.
